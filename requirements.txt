@@ -1,0 +1,5 @@
+flask
+anthropic
+google-auth
+google-cloud-aiplatform
+python-dotenv 

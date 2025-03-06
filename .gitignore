@@ -1,0 +1,9 @@
+node_modules
+.env
+log.txt
+service-account.json
+venv
+logs
+__pycache__
+package.json
+package-lock.json
